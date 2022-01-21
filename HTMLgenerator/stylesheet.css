@@ -1,0 +1,52 @@
+#id1
+{
+background-color: red;
+}
+#id2
+{
+background-color: blue;
+}
+#id3
+{
+background-color: yellow;
+}
+#id4
+{
+background-color: green;
+}
+#id5
+{
+background-color: pink;
+}
+#id6
+{
+background-color: brown;
+}
+#p1
+{
+text-align: left;
+}
+#p2
+{
+text-align: right;
+}
+#p3
+{
+text-align: center;
+}
+#l1
+{
+width: 150%;
+}
+#t1
+{
+border: 4px dotted blue;
+}
+#t2
+{
+border: double;
+}
+#t3
+{
+border: 3px solid red;
+}
