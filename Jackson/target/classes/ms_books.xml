@@ -1,0 +1,164 @@
+<?xml version="1.0"?>
+<catalog>
+    <book id="bk101" cover="paperback">
+        <authors>
+            <author>
+                <first_name>Matthew</first_name>
+                <last_name>Gambardella</last_name>
+            </author>
+        </authors>
+        <title>XML Developer's Guide</title>
+        <genre>Computer</genre>
+        <price currency="usd"></price> <!-- price on demand -->
+        <publish_date>01_10_2001</publish_date> <!--different format-->
+        <description>An in-depth look at creating applications with XML.
+        </description>
+    </book>
+    <book id="bk102">
+        <authors>
+            <author>
+                <first_name>Kim</first_name>
+                <last_name>Ralls</last_name>
+            </author>
+        </authors>
+        <title>Midnight Rain</title>
+        <genre>Fantasy</genre>
+        <price currency="usd">5.95</price>
+        <publish_date></publish_date> <!-- no date-->
+        <description>A former architect battles corporate zombies, an evil sorceress, and her own childhood to become queen of the world.</description>
+    </book>
+    <book id="bk103">
+        <authors>
+            <author>
+                <first_name>Eva</first_name>
+                <last_name>Corets</last_name>
+            </author>
+        </authors>
+        <title>Maeve Ascendant</title>
+        <genre>Fantasy</genre>
+        <price currency="cad">5.95</price>
+        <publish_date>12-11-2000</publish_date>
+        <description>After the collapse of a nanotechnology society in England, the young survivors lay the foundation for a new society.</description>
+    </book>
+    <book id="bk104" cover="paperback">
+        <authors>
+            <author>
+                <first_name>Eva</first_name>
+                <last_name>Corets</last_name>
+            </author>
+        </authors>
+        <title>Oberon's Legacy</title>
+        <genre>Fantasy</genre>
+        <price currency="cad">5.95</price>
+        <publish_date></publish_date> <!-- no date -->
+        <description>In post-apocalypse England, the mysterious agent known only as Oberon helps to create a new life for the inhabitants of London. Sequel to Maeve Ascendant.</description>
+    </book>
+    <book id="bk105" cover="paperback">
+        <authors>
+            <author>
+                <first_name>Eva</first_name>
+                <last_name>Corets</last_name>
+            </author>
+        </authors>
+        <title>The Sundered Grail</title>
+        <genre>Fantasy</genre>
+        <price currency="usd">5.95</price>
+        <publish_date>2001-09-10</publish_date>
+        <description>The two daughters of Maeve, half-sisters, battle one another for control of England. Sequel to Oberon's Legacy.</description>
+    </book>
+    <book id="bk106">
+        <authors>
+            <author>
+                <first_name>Cynthia</first_name>
+                <last_name>Randall</last_name>
+            </author>
+        </authors>
+        <title>Lover Birds</title>
+        <genre>Romance</genre>
+        <price currency="gbp">4.95</price>
+        <publish_date>2000-09-02</publish_date>
+        <description>When Carla meets Paul at an ornithology conference, tempers fly as feathers get ruffled.</description>
+    </book>
+    <book id="bk107">
+        <authors>
+            <author>
+                <first_name>Paula</first_name>
+                <last_name>Thurman</last_name>
+            </author>
+        </authors>
+        <title>Splish Splash</title>
+        <genre>Romance</genre>
+        <price currency="gbp">4.95</price>
+        <publish_date>2000-11-02</publish_date>
+        <description>A deep sea diver finds true love twenty thousand leagues beneath the sea.</description>
+    </book>
+    <book id="bk108">
+        <authors>
+            <author>
+                <first_name>Stefan</first_name>
+                <last_name>Knorr</last_name>
+            </author>
+            <author>
+                <first_name>Peter</first_name>
+                <last_name>Kress</last_name>
+            </author>
+        </authors>
+        <title>Creepy Crawlies</title>
+        <genre>Horror</genre>
+        <price currency="usd">4.95</price>
+        <publish_date>2000-12-06</publish_date>
+        <description>An anthology of horror stories about roaches, centipedes, scorpions and other insects.</description>
+    </book>
+    <book id="bk109">
+        <authors>
+            <author>
+                <first_name>Peter</first_name>
+                <last_name>Kress</last_name>
+            </author>
+        </authors>
+        <title>Paradox Lost</title>
+        <genre>Science Fiction</genre>
+        <price currency="usd">6.95</price>
+        <publish_date>2000-11-02</publish_date>
+        <description>After an inadvertant trip through a Heisenberg Uncertainty Device, James Salway discovers the problems of being quantum.</description>
+    </book>
+    <book id="bk110" cover="hardcover">
+        <authors>
+            <author>
+                <first_name>Tim</first_name>
+                <last_name>O'Brien</last_name>
+            </author>
+        </authors>
+        <title>Microsoft .NET: The Programming Bible</title>
+        <genre>Computer</genre>
+        <price currency="usd">36.95</price>
+        <publish_date>2000-12-09</publish_date>
+        <description>Microsoft's .NET initiative is explored in detail in this deep programmer's reference.</description>
+    </book>
+    <book id="bk111" cover="hardcover">
+        <authors>
+            <author>
+                <first_name>Tim</first_name>
+                <last_name>O'Brien</last_name>
+            </author>
+        </authors>
+        <title>MSXML3: A Comprehensive Guide</title>
+        <genre>Computer</genre>
+        <price currency="usd">36.95</price>
+        <publish_date>2000-12-01</publish_date>
+        <description>The Microsoft MSXML3 parser is covered in detail, with attention to XML DOM interfaces, XSLT processing, SAX and more.</description>
+    </book>
+    <book id="bk112" cover="hardcover">
+        <authors>
+            <author>
+                <first_name>Mike</first_name>
+                <last_name>Galos</last_name>
+            </author>
+        </authors>
+        <title>Visual Studio 7: A Comprehensive Guide</title>
+        <genre>Computer</genre>
+        <price currency="usd">49.95</price>
+        <publish_date>2001-04-16</publish_date>
+        <description>Microsoft Visual Studio 7 is explored in depth, looking at how Visual Basic, Visual C++, C#, and ASP+ are integrated into a comprehensive development environment.</description>
+    </book>
+</catalog>
